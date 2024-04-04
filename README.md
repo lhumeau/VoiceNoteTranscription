@@ -29,7 +29,7 @@ Asegúrate de tener Docker y Docker Compose instalados en tu sistema. Para más 
 1. **Clonar el repositorio:**
 
 ```bash
-git clone https://tu-repositorio/VoiceNoteTranscription.git
+git clone https://github.com/lhumeau/VoiceNoteTranscription.git
 cd VoiceNoteTranscription
 ```
 
