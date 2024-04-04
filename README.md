@@ -41,7 +41,7 @@ Utiliza Docker Compose para construir y ejecutar la aplicación:
 
 Esto iniciará la aplicación y estará accesible desde http://localhost:8000.
 
-##Uso de la API
+## Uso de la API
 
 Para transcribir notas de voz, puedes usar herramientas como Postman o realizar una solicitud curl desde la línea de comandos. Aquí tienes un ejemplo de cómo hacerlo:
 
@@ -53,7 +53,7 @@ Para transcribir notas de voz, puedes usar herramientas como Postman o realizar 
 ```
 
 
-Reemplaza tu_archivo_de_audio.aac con el camino a tu archivo de audio.
+Reemplaza tu_archivo_de_audio.aac con el camino a tu archivo de audio o Formatos m4a,3gp...etc 
 
 ## Contribuir
 
